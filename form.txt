@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+
+        <title>registration form</title>
+
+    </head>
+
+    <body>
+
+        <a href="https\\form.com">form</a>
+
+        <form>
+
+            <h2>REGISTRATION FROM</h2>
+
+            <input type="text" placeholder="user name"><br>
+
+            <input type="number" placeholder="age"><br>
+
+            <input type="date" placeholder="DOB"><br>
+
+            <select>
+
+                <option value="bsc">bsc</option>
+
+                <option value="be">be</option>
+
+                <option value="bcom">bcom</option>
+
+            </select><br>
+
+                <input type="radio" name="gender" value="male" check>male<br>
+
+                <input type="radio" name="gender" value="female" check>female<br>
+
+                <input type="radio" name="gender" value="other" check>other<br>
+
+                <input type="button" value="submit"><br>
+
+            <p>the list of unordered items</p>
+
+             <ul style="list-style-type:square">
+
+              <li>coffee</li>
+
+              <li>tea</li>
+
+              <li>boost</li>
+
+             </ul>
+
+            <p>the list of ordered list</p>
+ 
+             <ol type="i">
+
+              <li>coffee</li>
+
+              <li>tea</li>
+
+              <li>boost</li>
+
+             </ol>
+       </form>
+
+    </body>
+
+</html>
