@@ -1,0 +1,40 @@
+<!doctype html>
+<html>
+    <head>
+        <title>FORM</title>
+    </head>
+    <body>
+    <div>
+    <style>    
+        h2{
+            background:yellow;
+            text-align:center;
+            padding:5px;
+            border:5px solid black;
+        }
+        form{
+            white-space:pre;
+            padding:5px;
+            border:5px solid black;
+            text-align:center;
+            background:blue;
+        }
+    </style>
+        <h2>REGISTRATION FORM</h2>
+        <form>
+        <input type="text" placeholder="name">
+        <input type="number" placeholder="age">
+        <input type="date" placeholder="DOB">
+        <select>
+            <option value="bsc">bsc</option>
+            <option value="be">be</option>
+            <option value="bcom">bcom</option>
+        </select>
+        <input type="radio" name="gender" value="male" check>male
+        <input type="radio" name="gender" value="female" check>female
+        <input type="radio" name="gender" value="other" check>other
+        <input type="button" value="submit">
+        </form>
+     </div>    
+    </body>
+</html>
